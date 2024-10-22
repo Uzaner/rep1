@@ -1,1 +1,1 @@
-This is the main branch 2
+Изменение из ветки conflict-branch
