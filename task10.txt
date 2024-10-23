@@ -1,0 +1,5 @@
+import math
+print('Введите радиус и высоту основания в одну строку через пробел')
+a, b = map(float, input().split())
+c=round((math.pi*a*a*b), 2)
+print("Объем цилиндра ", c)
